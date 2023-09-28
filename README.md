@@ -1,6 +1,14 @@
-# BlogPosts
+# Blog posts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+
+## Installation
+
+Run `npm install` to install all dependencies
+
+## Configuration
+
+Update if necessary the config inside `src/config/config.js`
 
 ## Development server
 
